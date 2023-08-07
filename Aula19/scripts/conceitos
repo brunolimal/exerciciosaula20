@@ -1,0 +1,28 @@
+let ola = 'Olá Pessoal' // Variavel LET, é possivel alterar o valor dessa variável
+
+// exemplo de mudança:
+
+ola = 'Tchau pessoal'
+
+console.log(ola)
+
+// Variaveis
+
+let texto = 'Isso é um texto' // Entre aspas simples
+let numero = 1000 // sem aspas
+let verdade = false
+let nulo = null
+let desconhecido = undefined
+
+// Para imprimir o resultado na tela:
+
+alert('Olá pessoal')
+alert(texo)
+
+console.log('Mensagem')
+console.log(5)
+console.log(true)
+console.log('Mensagem')
+
+
+const constante = 'Olá Constante' // Não é um atributo que pode ser modificado
